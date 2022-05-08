@@ -17,3 +17,7 @@ The *ERUID* dataset is collected during oceanic explorations and human-robot coo
 We divide the collected images into seven categories: images with distorted color, images with different perspectives, images with low contrast, images with blur perception, images with an uneven-brightness scene, images with a dim scene, and images with a turbid scene. Then, considering the difference in color distortion, the category of images with distorted color is further divided into three subcategories: the bluish appearance, the greenish appearance, and the yellowish appearance. Similarly, the images with different perspectives are composed of the downward-looking, forward-looking, and upward-looking. These images are carefully selected to accommodate a wide range of underwater degradation variability.
 
 The raw dataset can be found completely from here. [https://pan.baidu.com/s/1YFcwSb56wZPTOTl7y0ueYw?pwd=tn3q]().
+
+## 4.Codes
+
+We would upload our code here as soon as possible, please wait.
