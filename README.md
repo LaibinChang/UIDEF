@@ -1,4 +1,4 @@
-# ERUID-A-Comprehensive-Underwater-Image-Dataset
+# CUIED: A Comprehensive Underwater Image Enhancement Dataset and Beyond
 
 [TOC]
 
