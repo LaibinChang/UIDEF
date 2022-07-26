@@ -17,7 +17,7 @@ The *CUIED* dataset is collected during oceanic explorations and human-robot coo
 We divide the collected images into seven categories: images with distorted color, images with different perspectives, images with low contrast, images with blur perception, images with an uneven-brightness scene, images with a dim scene, and images with a turbid scene. Then, considering the difference in color distortion, the category of images with distorted color is further divided into three subcategories: the bluish appearance, the greenish appearance, and the yellowish appearance. Similarly, the images with different perspectives are composed of the downward-looking, forward-looking, and upward-looking. These images are carefully selected to accommodate a wide range of underwater degradation variability.
 ![image](https://user-images.githubusercontent.com/88143736/168535408-4344d264-bd79-47b0-9897-962510411666.png)
 
-The raw dataset can be found completely from here. [https://pan.baidu.com/s/1YFcwSb56wZPTOTl7y0ueYw?pwd=tn3q]().
+The raw dataset can be found completely from here. [https://pan.baidu.com/s/17EZt8aqEeA7jYWFexl4rIg?pwd=ERUI]().
 
 ## 4.Codes
 
