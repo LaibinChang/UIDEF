@@ -1,4 +1,4 @@
-# UIDEF: A Real-world Underwater Image Dataset and A Color-Contrast Complementary Image Enhancement Framework
+# UIDEF: A Real-world Underwater Image Dataset
 
 [TOC]
 
