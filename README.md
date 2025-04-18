@@ -16,4 +16,4 @@ The raw underwater image dataset can be found from [Google Drive](https://drive.
 
 **If the project is helpful to you, please cite our paper. Thanks!.**
 
-Chang L, Song H, Li M, et al. UIDEF: A real-world underwater image dataset and a color-contrast complementary image enhancement framework[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2023, 196: 415-428.
+Chang L, Song H, Li M, et al. UIDEF: A real-world underwater image dataset and a color-contrast complementary image enhancement framework[J]. *ISPRS Journal of Photogrammetry and Remote Sensing*, 2023, 196: 415-428.
